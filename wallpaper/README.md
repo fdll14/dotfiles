@@ -1,3 +1,3 @@
-# dotfiles
+# Wallpaper
 My Linux Wallpaper
 
